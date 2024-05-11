@@ -1,0 +1,15 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Code/com/Final1/Final1/Content/background.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/background.xnb","TextureProcessor","Texture2DContent",217147,1280085,0.2337395
+"D:/Code/com/Final1/Final1/Content/block.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/block.xnb","TextureProcessor","Texture2DContent",13863,20821,0.2640906
+"D:/Code/com/Final1/Final1/Content/enemy.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/enemy.xnb","TextureProcessor","Texture2DContent",1035,32853,0.2129607
+"D:/Code/com/Final1/Final1/Content/File.spritefont","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/infos.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.1021312
+"D:/Code/com/Final1/Final1/Content/fire.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/fire.xnb","TextureProcessor","Texture2DContent",353,2133,0.2119981
+"D:/Code/com/Final1/Final1/Content/heart.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/heart.xnb","TextureProcessor","Texture2DContent",156,761,0.2035337
+"D:/Code/com/Final1/Final1/Content/item1.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/item1.xnb","TextureProcessor","Texture2DContent",216,4053,0.200637
+"D:/Code/com/Final1/Final1/Content/item123.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/item123.xnb","TextureProcessor","Texture2DContent",582,12373,0.2015933
+"D:/Code/com/Final1/Final1/Content/item2.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/item2.xnb","TextureProcessor","Texture2DContent",298,4053,0.0009237
+"D:/Code/com/Final1/Final1/Content/items.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/items.xnb","TextureProcessor","Texture2DContent",404,3157,0.2074605
+"D:/Code/com/Final1/Final1/Content/linksword.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/linksword.xnb","TextureProcessor","Texture2DContent",1232,50261,0.2051561
+"D:/Code/com/Final1/Final1/Content/RedRing.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/RedRing.xnb","TextureProcessor","Texture2DContent",140,337,0.0013122
+"D:/Code/com/Final1/Final1/Content/SilverArrow.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/SilverArrow.xnb","TextureProcessor","Texture2DContent",132,405,0.0011591
+"D:/Code/com/Final1/Final1/Content/stlink.png","D:/Code/com/Final1/Final1/Content/bin/DesktopGL/Content/stlink.xnb","TextureProcessor","Texture2DContent",1310,32853,0.2267969
